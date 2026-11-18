@@ -816,6 +816,21 @@ footer.site .legal{border-top:1px solid rgba(255,255,255,.1);margin-top:56px;pad
 .subnav .sub-back{background:transparent}
 .subnav a:hover,.subnav button:hover{border-color:var(--teal);color:var(--teal-dark)}
 
+/* Reference navigation bar */
+header.site{background:#fff;border-bottom:1px solid #dfe6f5;backdrop-filter:none}
+header.site .wrap{height:112px;max-width:var(--max);width:100%;margin:0 auto;padding:0 var(--gut-r) 0 var(--gut-l);box-sizing:border-box;gap:0}
+header.site .logo,header.site .hdr-cta,header.site .menu-btn,header.site .mnav{display:none!important}
+header.site nav.main{display:flex!important;flex:1;justify-content:space-between;gap:clamp(14px,4vw,56px);margin:0}
+header.site nav.main > a,header.site nav.main .dd > a.dd-top{padding:8px 0;border-radius:0;background:none;color:#111b1d;font:500 clamp(15px,1.5vw,18px)/1.2 var(--font);white-space:nowrap}
+header.site nav.main > a:hover,header.site nav.main .dd > a.dd-top:hover,header.site nav.main .dd:focus-within > a.dd-top{color:#111b1d;background:none}
+header.site nav.main .dd-panel{top:calc(100% + 16px)}
+@media(max-width:560px){
+  header.site .wrap{height:76px;padding-left:var(--gut-l);padding-right:var(--gut-r)}
+  header.site nav.main{gap:10px}
+  header.site nav.main > a,header.site nav.main .dd > a.dd-top{font-size:clamp(13px,3.7vw,18px);gap:3px}
+  header.site nav.main .dd > a.dd-top svg{width:9px;height:9px}
+}
+
 /* photo slots */
 .ph-add{position:absolute;z-index:6;left:14px;top:14px;font:600 .72rem var(--font);background:rgba(11,36,39,.86);color:#fff;border:0;border-radius:999px;padding:7px 12px;cursor:pointer;display:inline-flex;gap:6px;align-items:center;box-shadow:0 4px 12px rgba(0,0,0,.2)}
 .ph-add:hover{background:var(--night)}
