@@ -1,0 +1,39 @@
+# Mitsuha
+
+> Mitsuha is an all-in-one cloud dental practice management system (PMS) with AI built in, made for owner dentists and office managers at independent practices and small groups in the US. It is built by dentists, and multiple offices run on it every day.
+
+## Key facts
+
+- Mitsuha is an all-in-one cloud dental practice management system (PMS) with AI built in, for independent dental practices and small groups in the US.
+- It runs in a web browser, so there is no office server to buy, back up or replace, and updates arrive automatically.
+- It covers scheduling, charting and treatment planning, imaging, insurance verification, claims, payments, reports and a patient app in one system.
+- AI billing builds claims from the chart, sends them, posts payments from ERAs and follows up on unpaid claims. In the offices that run on Mitsuha, billing out claims and pre-auths went from 3–4 hours a day to 1–2 hours a day.
+- AI insurance verification checks eligibility and benefits before each appointment, and staff can check a whole day or week in one click.
+- AI Scribe writes SOAP notes, perio charting, procedure codes and treatment plans from the dentist's spoken exam.
+- Amy is Mitsuha's AI phone assistant. Amy makes routine patient calls: confirmations, rescheduling, recalls, filling open slots and preauthorization updates.
+- The patient app lets patients book, reschedule or cancel visits, manage family members, check their coverage and pay their bills online.
+- Ask Megumi is in-app help that answers staff how-to questions and walks them through tasks step by step.
+- Mitsuha has its own in-house imaging software. It connects to intraoral sensors and panoramic machines through standard TWAIN drivers.
+- Mitsuha signs a business associate agreement (BAA) with every practice, and patient data is stored in the US on AWS.
+- Practices usually go live about 3 to 4 weeks after signing; most of that time is insurance billing paperwork.
+- Mitsuha is built by dentists, and multiple offices run on it every day.
+- Pricing is quoted for each practice in a 20-minute demo.
+
+## Product
+
+- [All-in-One Dental Practice Management Software](https://mitsuha.com/): Mitsuha is all-in-one cloud dental practice management software with AI billing: scheduling, charting, imaging, insurance and payments. Book a demo.
+- [All-in-One Dental PMS Features](https://mitsuha.com/features): See every Mitsuha feature: AI Scribe notes, AI billing, insurance checks, X-rays, a patient app and Amy, the AI assistant who calls patients for you.
+- [Dental Insurance Verification Software](https://mitsuha.com/ai-dental-billing): Mitsuha checks dental insurance before every visit, then builds, sends and follows up on claims, cutting daily billing time from 3–4 hours to 1–2.
+
+## Switching and comparisons
+
+- [Why Mitsuha: Switch to Cloud Dental Software](https://mitsuha.com/why-mitsuha): Why Mitsuha: see what changes when you move from server-based dental software to the cloud, and how we move your data so you go live in 3 to 4 weeks.
+- [Dentrix Alternative with AI Billing](https://mitsuha.com/why-mitsuha/dentrix): Compare Mitsuha with Dentrix side by side: cloud dental software with AI billing and insurance checks built in. Go live in about 3 to 4 weeks.
+- [Eaglesoft Alternative with AI Billing](https://mitsuha.com/why-mitsuha/eaglesoft): Compare Mitsuha with Eaglesoft side by side: cloud dental software with AI billing and insurance checks built in. Go live in about 3 to 4 weeks.
+- [Open Dental Alternative with AI Billing](https://mitsuha.com/why-mitsuha/open-dental): Compare Mitsuha with Open Dental side by side: cloud dental software with AI billing and insurance checks built in. Go live in about 3 to 4 weeks.
+
+## Company and help
+
+- [About Us: Dental Software Built by Dentists](https://mitsuha.com/about): Mitsuha is cloud dental practice management software built by practicing dentists. Read our story, mission and why multiple offices run on it daily.
+- [Dental Software FAQ](https://mitsuha.com/faq): Straight answers on dental software cost, switching, HIPAA, X-rays, AI billing and training, from dentists who run their own offices on Mitsuha.
+- [Dental Software Pricing](https://mitsuha.com/demo): Get dental software pricing quoted for your practice in a 20-minute demo, and see AI billing, insurance checks and scheduling on a day like yours.
